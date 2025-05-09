@@ -35,4 +35,8 @@ git clone https://github.com/mickeiasdev/card-botao-ler-mais-ler-menos
 
 ## 👨‍💻 Autor
 
-Este conteúdo foi desenvolvido por Mickeias Coelho como prática pessoal e parte dos estudos em Análise e Desenvolvimento de Sistemas no Instituto Infnet.
+Desenvolvido por [Mickeias Coelho](https://github.com/mickeiasdev)
+
+Sinta-se à vontade para fazer contribuições ou melhorar o código.
+
+📌 **Observação:** Este projeto foi desenvolvido como parte de um estudo pessoal com o objetivo de praticar e aprofundar conhecimentos na área.
